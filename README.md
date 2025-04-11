@@ -1,3 +1,31 @@
+## 🚀 Assignment Submission - Internship Task by Kuber Kunal Dubey
+
+This is my implementation of the WebSocket-powered Kanban board for the Vyorius internship assignment. I have added task management features, integrated real-time sync using Socket.IO, implemented file upload support, and added test coverage using Vitest and Playwright.
+
+### 🔗 Submission Links
+- ✅ **GitHub Repo:** [KuberKunal/websocket-kanban-vitest-playwright](https://github.com/KuberKunal/websocket-kanban-vitest-playwright)
+- 🌐 **Live Demo:** [https://your-deployed-url.com](https://your-deployed-url.com)
+
+### 🛠️ Key Work Done
+- Added real-time WebSocket task updates
+- Implemented draggable Kanban board UI
+- File upload support with image preview
+- Priority and category selection for tasks
+- Task progress graph using Chart.js
+- ✅ Unit, integration, and E2E testing added
+
+---
+
+⬇️ Original Candidate Guide Follows
+
+
+
+
+
+
+
+
+
 # 📝 WebSocket-Powered Kanban Board - Candidate Guide
 
 ## 📌 Project Overview
